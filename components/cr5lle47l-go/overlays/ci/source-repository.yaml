@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cr5lle47l-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cr5lle47l-go
